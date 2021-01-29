@@ -1,0 +1,8 @@
+name = "worker"
+type = "javascript"
+account_id = "51a194e0a18776642ce8563cdaf9d3bd"
+workers_dev = true
+kv_namespaces = [{ binding = "ejcxnet", id = "36b36a2687834ff69c1c1e65b83fcea8" }]
+
+routes = ["https://ejcx.net/*"]
+zone_id = "8b7a033c1a3c3efa58513e3ba0a3a647"
