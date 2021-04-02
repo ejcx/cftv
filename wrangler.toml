@@ -1,5 +1,5 @@
 name = "worker"
-type = "javascript"
+type = "webpack"
 account_id = "51a194e0a18776642ce8563cdaf9d3bd"
 workers_dev = true
 kv_namespaces = [{ binding = "ejcxnet", id = "36b36a2687834ff69c1c1e65b83fcea8" }]
